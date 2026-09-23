@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b3ba8ab520f920abc7d77b15",
+  "owner": "rtedbtqmng",
+  "repo": "page-c48562a1f7be9a376bb7236c",
+  "title": "Recursion",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c48562a1f7be9a376bb7236c",
+      "a": "Recursion",
+      "b": "2027官方最新地址导航",
+      "entity": "Recursion",
+      "brand": "Recursion",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b5b8a8234d0a8315b734bb63eff00b53a04e96bef4ccfff55fa1909e12c16045",
+      "content": {
+        "primary_entity": "Recursion",
+        "keyword1": "Recursion",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，Recursion 面向跨境访问、流媒体和游戏加速场景，提供按月或按年计费的订阅方案。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB 流量与 5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量与 20 台设备，支持企业定制路由。选择时先确认常用设备的客户端生态与同时在线数量，再对照流量和节点线路决定订阅周期，年付可降低月均成本。",
+          "AI_HERO_SUBTITLE": "轻量配置，按需选择加速方案",
+          "AI_HERO_INTRO": "Recursion 是面向海外访问场景的加速订阅服务，围绕流量、设备数量与线路质量划分基础版、旗舰版和团队版。用户可先确认常用设备与客户端类型，再结合预算和同时在线设备数选择月付或年付方案，完成订阅后按客户端文档导入配置即可使用。",
+          "AI_VISUAL_TITLE": "Recursion 套餐与设备选择",
+          "AI_HIGHLIGHT_1": "基础版 100GB 支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 支持 20 台设备",
+          "AI_FEATURES_TITLE": "订阅与设备要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模和线路偏好三个角度匹配套餐，减少选错档位带来的重复订阅。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "手机、平板、电脑合计在线设备数决定档位，3 台以内可选基础版，5 台左右适合旗舰版，20 台设备场景使用团队版。",
+          "AI_FEATURE_TITLE_2": "按流量估周期",
+          "AI_FEATURE_TEXT_2": "日常浏览与短视频每月约 100GB，4K 流媒体和频繁下载建议 300GB 以上，团队多设备并行可考虑 1000GB 流量。",
+          "AI_FEATURE_TITLE_3": "按线路定体验",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，普通线路节点池适合基础访问需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。按设备数量、流量用量和线路需求对照选择即可。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先选服务档位，再核对设备适配要求，最后按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据同时在线设备数、每月流量规模和是否需要专线游戏加速，对比基础版、旗舰版和团队版的权益后确定订阅周期。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备类型和操作系统版本，核对套餐支持的同时在线设备数量，避免多设备登录时超出档位限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅信息后，依照所用客户端的内置文档导入配置，完成节点选择与连接测试，即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同系统可选择相应客户端，按设备类型和客户端文档完成订阅导入，适配情况以客户端实际支持为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "按设备与流量选好套餐",
+          "AI_CLOSING_TEXT": "先确认常用设备数量和每月流量需求，再对比 Recursion 三个档位，选定月付或年付后按客户端文档导入订阅。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "Recursion 支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "Windows、macOS、Android、iOS 等常见系统都有对应客户端，具体支持情况以各客户端文档为准，配置方式为导入订阅或手动填写参数。",
+          "AI_FAQ_QUESTION_2": "三档套餐的流量和设备数有什么区别？",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按常用终端数与月流量挑选即可。",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于十个月价格，适合长期使用。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟较敏感的游戏与实时应用，同时支持全节点原生流媒体解锁与 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_5": "团队版能否定制路由？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并配有 VIP 专属高带宽节点与专属客户经理服务，适合多设备共享或企业级使用需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6sieda.cn",
+    "host": "6sieda.cn"
+  },
+  "file_hashes": {
+    "index.html": "b05c88787b66f07818cc0a6254f65f60e345082c6a753ace5d6c3814d7cd60ea",
+    "sitemap.xml": "39b63d60f0f11de5177fe213ab9c17365657a0883317f6779397aa569b15e6c4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1e847cdeb4290da51170ba62d180a2e013e5b3fa44e4b0f034860bbfdf58fb8d",
+    "robots.txt": "a2f77c14888fe3d3f13d1c29e87ac4459db6333f585d7b112cf038ca5db7b8e3",
+    "5d54f95c219ef41ced3af0ef8c47264f.txt": "16a109cab35aaaa2bffff90ff0fd95ac5c3271ccf1b8e49e909f55a09f7bcd1f"
+  },
+  "revision": "8a1bfa59027a38f489a7b1c0d29ed3f2ce4593d7e019afd12a79c8bb08d8f558"
+}
